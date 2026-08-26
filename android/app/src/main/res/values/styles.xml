@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="android:editTextBackground">@drawable/rn_edit_text_material</item>
+        <item name="android:windowDisablePreview">true</item>
+    </style>
+
+    <!-- Compatibility styles for mappls library -->
+    <!-- <style name="Theme.Design.Light.BottomSheetDialog" parent="Theme.MaterialComponents.BottomSheetDialog">
+    </style>
+
+    <style name="Widget.Design.BottomSheet.Modal" parent="Widget.MaterialComponents.BottomSheet.Modal">
+    </style> -->
+
+</resources>

@@ -1,0 +1,27 @@
+
+
+-----------Request Reschedule ---------
+Unavailable at Location
+Out of Station
+COD Amount Not Ready
+Require Different Time Slot
+Other
+
+-------------Request Cancelled---------
+Duplicate Order
+Order Placed by Mistake
+COD Amount Not Ready
+Better Price Elsewhere
+Other
+
+
+-------------Undelivered Reasons------
+Address Incorrect / Incomplete
+Customer Requested Reschedule
+Customer Refused / Cancelled
+Delivery Attempted – Not Reachable
+Delivery Attempted – No Response
+Wrong Pincode / Address
+Wrong Contact Details
+Vehicle / Weather / Road Issue
+Package Damaged

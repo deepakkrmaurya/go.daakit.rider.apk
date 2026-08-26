@@ -1,0 +1,22 @@
+diff --git a/node_modules/mappls-direction-widget-react-native/android/build.gradle b/node_modules/mappls-direction-widget-react-native/android/build.gradle
+index 757f06c..7e63fd2 100644
+--- a/node_modules/mappls-direction-widget-react-native/android/build.gradle
++++ b/node_modules/mappls-direction-widget-react-native/android/build.gradle
+@@ -13,7 +13,7 @@ buildscript {
+  if (project == rootProject) {
+   repositories {
+     google()
+-    jcenter()
++    
+   }
+ 
+   dependencies {
+@@ -85,7 +85,7 @@ repositories {
+         url 'https://maven.mappls.com/repository/mappls/'
+     }
+     google()
+-    jcenter()
++  
+ }
+ 
+ def kotlin_version = safeExtGet('kotlinVersion', DEFAULT_KOTLIN_VERSION)

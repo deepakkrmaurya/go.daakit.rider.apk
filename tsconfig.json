@@ -1,0 +1,28 @@
+{
+  "extends": "@react-native/typescript-config",
+  "compilerOptions": {
+    // "types": [
+    //   "jest"
+    // ]
+    "baseUrl": ".",
+    "paths": {
+      "@components/*": ["src/components/*"],
+      "@screens/*": ["src/screens/*"],
+      "@utils/*": ["src/utils/*"],
+      "@assets/*": ["./src/assets"],
+      "@permission/*": ["./src/permission"],
+      "@navigation/*": ["./src/navigation"],
+    },
+    "ignoreDeprecations": "6.0"
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    "src/App.jsx",
+    "nativewind-env.d.ts"
+, "src/native/ExotelVoiceModule.jsx"  ],
+  "exclude": [
+    "**/node_modules",
+    "**/Pods"
+  ]
+}

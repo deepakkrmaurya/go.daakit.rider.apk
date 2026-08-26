@@ -1,0 +1,844 @@
+﻿> Task :gradle-plugin:settings-plugin:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle-plugin:shared:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle-plugin:shared:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:shared:compileJava NO-SOURCE
+> Task :gradle-plugin:shared:processResources NO-SOURCE
+> Task :gradle-plugin:shared:classes UP-TO-DATE
+> Task :gradle-plugin:shared:jar UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:compileJava NO-SOURCE
+> Task :gradle-plugin:settings-plugin:pluginDescriptors UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:processResources UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:classes UP-TO-DATE
+> Task :gradle-plugin:settings-plugin:jar UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :gradle-plugin:react-native-gradle-plugin:compileKotlin UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:compileJava NO-SOURCE
+> Task :gradle-plugin:react-native-gradle-plugin:pluginDescriptors UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:processResources UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:classes UP-TO-DATE
+> Task :gradle-plugin:react-native-gradle-plugin:jar UP-TO-DATE
+
+> Configure project :app
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven3' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'Google2' was added by plugin 'com.facebook.react'
+Build was configured to prefer settings repositories over project repositories but repository 'maven4' was added by plugin 'com.facebook.react'
+
+> Configure project :
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven2' was added by build file 'build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google' was added by build file 'build.gradle'
+
+> Configure project :mappls-direction-widget-react-native
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal2' was added by build file '..\node_modules\mappls-direction-widget-react-native\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file '..\node_modules\mappls-direction-widget-react-native\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven5' was added by build file '..\node_modules\mappls-direction-widget-react-native\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven6' was added by build file '..\node_modules\mappls-direction-widget-react-native\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven7' was added by build file '..\node_modules\mappls-direction-widget-react-native\android\build.gradle'
+
+> Configure project :react-native-android-location-enabler
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file '..\node_modules\react-native-android-location-enabler\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file '..\node_modules\react-native-android-location-enabler\android\build.gradle'
+
+> Configure project :react-native-community_datetimepicker
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file '..\node_modules\@react-native-community\datetimepicker\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal2' was added by build file '..\node_modules\@react-native-community\datetimepicker\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file '..\node_modules\@react-native-community\datetimepicker\android\build.gradle'
+
+> Configure project :react-native-community_geolocation
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file '..\node_modules\@react-native-community\geolocation\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file '..\node_modules\@react-native-community\geolocation\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'React Native sources' was added by build file '..\node_modules\@react-native-community\geolocation\android\build.gradle'
+
+> Configure project :react-native-community_netinfo
+Build was configured to prefer settings repositories over project repositories but repository 'maven5' was added by build file '..\node_modules\@react-native-community\netinfo\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file '..\node_modules\@react-native-community\netinfo\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal2' was added by build file '..\node_modules\@react-native-community\netinfo\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file '..\node_modules\@react-native-community\netinfo\android\build.gradle'
+
+> Configure project :react-native-gesture-handler
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file '..\node_modules\react-native-gesture-handler\android\build.gradle'
+
+> Configure project :react-native-image-crop-picker
+Build was configured to prefer settings repositories over project repositories but repository 'maven5' was added by build file '..\node_modules\react-native-image-crop-picker\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file '..\node_modules\react-native-image-crop-picker\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file '..\node_modules\react-native-image-crop-picker\android\build.gradle'
+
+> Configure project :react-native-maps
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal2' was added by build file '..\node_modules\react-native-maps\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file '..\node_modules\react-native-maps\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven5' was added by build file '..\node_modules\react-native-maps\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file '..\node_modules\react-native-maps\android\build.gradle'
+
+> Configure project :react-native-mmkv
+[NitroModules] ? NitroMmkv is boosted by nitro!
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file '..\node_modules\react-native-mmkv\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file '..\node_modules\react-native-mmkv\android\build.gradle'
+
+> Configure project :react-native-nitro-modules
+[NitroModules] ? Your app is boosted by nitro modules!
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file '..\node_modules\react-native-nitro-modules\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file '..\node_modules\react-native-nitro-modules\android\build.gradle'
+
+> Configure project :react-native-worklets
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file '..\node_modules\react-native-worklets\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file '..\node_modules\react-native-worklets\android\build.gradle'
+
+> Configure project :react-native-reanimated
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file '..\node_modules\react-native-reanimated\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file '..\node_modules\react-native-reanimated\android\build.gradle'
+
+> Configure project :react-native-safe-area-context
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file '..\node_modules\react-native-safe-area-context\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven5' was added by build file '..\node_modules\react-native-safe-area-context\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file '..\node_modules\react-native-safe-area-context\android\build.gradle'
+
+> Configure project :react-native-screens
+Build was configured to prefer settings repositories over project repositories but repository 'maven5' was added by build file '..\node_modules\react-native-screens\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file '..\node_modules\react-native-screens\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal2' was added by build file '..\node_modules\react-native-screens\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file '..\node_modules\react-native-screens\android\build.gradle'
+
+> Configure project :react-native-svg
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file '..\node_modules\react-native-svg\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenLocal2' was added by build file '..\node_modules\react-native-svg\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file '..\node_modules\react-native-svg\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'maven5' was added by build file '..\node_modules\react-native-svg\android\build.gradle'
+
+> Configure project :react-native-vector-icons
+Build was configured to prefer settings repositories over project repositories but repository 'maven5' was added by build file '..\node_modules\react-native-vector-icons\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file '..\node_modules\react-native-vector-icons\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file '..\node_modules\react-native-vector-icons\android\build.gradle'
+
+> Configure project :react-native-vision-camera
+[VisionCamera] Thank you for using VisionCamera ??
+[VisionCamera] If you enjoy using VisionCamera, please consider sponsoring this project: https://github.com/sponsors/mrousavy
+[VisionCamera] node_modules found at D:\Daakit-Rider\node_modules
+[VisionCamera] VisionCamera_enableFrameProcessors is set to true!
+[VisionCamera] react-native-worklets-core not found, Frame Processors are disabled!
+[VisionCamera] VisionCamera_enableCodeScanner is set to false!
+Build was configured to prefer settings repositories over project repositories but repository 'Google3' was added by build file '..\node_modules\react-native-vision-camera\android\build.gradle'
+Build was configured to prefer settings repositories over project repositories but repository 'MavenRepo2' was added by build file '..\node_modules\react-native-vision-camera\android\build.gradle'
+
+> Task :app:generateAutolinkingNewArchitectureFiles UP-TO-DATE
+> Task :app:generateAutolinkingPackageList UP-TO-DATE
+> Task :app:generateCodegenSchemaFromJavaScript SKIPPED
+> Task :app:generateCodegenArtifactsFromSchema SKIPPED
+> Task :app:generateReactNativeEntryPoint UP-TO-DATE
+> Task :mappls-direction-widget-react-native:preBuild UP-TO-DATE
+> Task :mappls-map-react-native:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :mappls-map-react-native:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :mappls-map-react-native:preBuild UP-TO-DATE
+> Task :react-native-android-location-enabler:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-android-location-enabler:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-android-location-enabler:preBuild UP-TO-DATE
+> Task :react-native-background-actions:preBuild UP-TO-DATE
+> Task :react-native-community_datetimepicker:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-community_datetimepicker:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-community_datetimepicker:preBuild UP-TO-DATE
+> Task :react-native-community_geolocation:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-community_geolocation:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-community_geolocation:preBuild UP-TO-DATE
+> Task :react-native-community_netinfo:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-community_netinfo:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-community_netinfo:preBuild UP-TO-DATE
+> Task :react-native-geolocation-service:preBuild UP-TO-DATE
+> Task :react-native-gesture-handler:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-gesture-handler:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-gesture-handler:preBuild UP-TO-DATE
+> Task :react-native-image-crop-picker:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-image-crop-picker:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-image-crop-picker:preBuild UP-TO-DATE
+> Task :react-native-maps:generateCodegenSchemaFromJavaScript SKIPPED
+> Task :react-native-maps:generateCodegenArtifactsFromSchema SKIPPED
+> Task :react-native-maps:preBuild UP-TO-DATE
+
+> Task :react-native-mmkv:generateCodegenSchemaFromJavaScript
+.\gradlew.bat : No modules to process in combine-js-to-schema-cli. If this is unexpected, please check if you set up your NativeComponent 
+correctly. See combine-js-to-schema.js for how codegen finds modules.
+At line:1 char:1
++ .\gradlew.bat app:assembleDebug > build_log.txt 2>&1
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (No modules to p... finds modules.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+
+> Task :react-native-mmkv:generateCodegenArtifactsFromSchema
+> Task :react-native-mmkv:preBuild
+> Task :react-native-nitro-modules:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-nitro-modules:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-nitro-modules:prepareHeaders UP-TO-DATE
+> Task :react-native-nitro-modules:preBuild UP-TO-DATE
+> Task :react-native-reanimated:assertMinimalReactNativeVersionTask
+> Task :react-native-reanimated:assertNewArchitectureEnabledTask SKIPPED
+> Task :react-native-reanimated:assertWorkletsVersionTask
+> Task :react-native-reanimated:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-reanimated:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-reanimated:prepareReanimatedHeadersForPrefabs UP-TO-DATE
+> Task :react-native-reanimated:preBuild
+> Task :react-native-safe-area-context:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-safe-area-context:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-safe-area-context:preBuild UP-TO-DATE
+> Task :react-native-screens:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-screens:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-screens:preBuild UP-TO-DATE
+> Task :react-native-svg:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-svg:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-svg:preBuild UP-TO-DATE
+> Task :react-native-vector-icons:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-vector-icons:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-vector-icons:preBuild UP-TO-DATE
+> Task :react-native-vision-camera:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-vision-camera:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-vision-camera:prepareHeaders UP-TO-DATE
+> Task :react-native-vision-camera:preBuild UP-TO-DATE
+> Task :react-native-worklets:assertMinimalReactNativeVersionTask
+> Task :react-native-worklets:assertNewArchitectureEnabledTask SKIPPED
+> Task :react-native-worklets:generateCodegenSchemaFromJavaScript UP-TO-DATE
+> Task :react-native-worklets:generateCodegenArtifactsFromSchema UP-TO-DATE
+> Task :react-native-worklets:prepareWorkletsHeadersForPrefabs UP-TO-DATE
+> Task :react-native-worklets:preBuild
+> Task :app:preBuild
+> Task :app:preDebugBuild
+> Task :app:mergeDebugNativeDebugMetadata NO-SOURCE
+> Task :app:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :app:dataBindingMergeDependencyArtifactsDebug UP-TO-DATE
+> Task :app:generateDebugResValues UP-TO-DATE
+> Task :app:generateDebugResources UP-TO-DATE
+
+> Task :mappls-map-react-native:generateDebugMapplsRes
+Parsing Licensing file: D:\Daakit-Rider\android\app\app1774009513351i1248407977.a.olf
+Parsing Config file: D:\Daakit-Rider\android\app\app1774009513351i1248407977.a.conf
+
+> Task :mappls-map-react-native:preDebugBuild UP-TO-DATE
+> Task :mappls-map-react-native:generateDebugResValues UP-TO-DATE
+> Task :mappls-map-react-native:generateDebugResources UP-TO-DATE
+> Task :mappls-map-react-native:packageDebugResources UP-TO-DATE
+> Task :react-native-android-location-enabler:preDebugBuild UP-TO-DATE
+> Task :react-native-android-location-enabler:generateDebugResValues UP-TO-DATE
+> Task :react-native-android-location-enabler:generateDebugResources UP-TO-DATE
+> Task :react-native-android-location-enabler:packageDebugResources UP-TO-DATE
+> Task :react-native-background-actions:preDebugBuild UP-TO-DATE
+> Task :react-native-background-actions:generateDebugResValues UP-TO-DATE
+> Task :react-native-background-actions:generateDebugResources UP-TO-DATE
+> Task :react-native-background-actions:packageDebugResources UP-TO-DATE
+> Task :react-native-community_datetimepicker:preDebugBuild UP-TO-DATE
+> Task :react-native-community_datetimepicker:generateDebugResValues UP-TO-DATE
+> Task :react-native-community_datetimepicker:generateDebugResources UP-TO-DATE
+> Task :react-native-community_datetimepicker:packageDebugResources UP-TO-DATE
+> Task :react-native-community_geolocation:preDebugBuild UP-TO-DATE
+> Task :react-native-community_geolocation:generateDebugResValues UP-TO-DATE
+> Task :react-native-community_geolocation:generateDebugResources UP-TO-DATE
+> Task :react-native-community_geolocation:packageDebugResources UP-TO-DATE
+> Task :react-native-community_netinfo:preDebugBuild UP-TO-DATE
+> Task :react-native-community_netinfo:generateDebugResValues UP-TO-DATE
+> Task :react-native-community_netinfo:generateDebugResources UP-TO-DATE
+> Task :react-native-community_netinfo:packageDebugResources UP-TO-DATE
+> Task :react-native-geolocation-service:preDebugBuild UP-TO-DATE
+> Task :react-native-geolocation-service:generateDebugResValues UP-TO-DATE
+> Task :react-native-geolocation-service:generateDebugResources UP-TO-DATE
+> Task :react-native-geolocation-service:packageDebugResources UP-TO-DATE
+> Task :react-native-gesture-handler:preDebugBuild UP-TO-DATE
+> Task :react-native-gesture-handler:generateDebugResValues UP-TO-DATE
+> Task :react-native-gesture-handler:generateDebugResources UP-TO-DATE
+> Task :react-native-gesture-handler:packageDebugResources UP-TO-DATE
+> Task :react-native-image-crop-picker:preDebugBuild UP-TO-DATE
+> Task :react-native-image-crop-picker:generateDebugResValues UP-TO-DATE
+> Task :react-native-image-crop-picker:generateDebugResources UP-TO-DATE
+> Task :react-native-image-crop-picker:packageDebugResources UP-TO-DATE
+> Task :react-native-maps:preDebugBuild UP-TO-DATE
+> Task :react-native-maps:generateDebugResValues UP-TO-DATE
+> Task :react-native-maps:generateDebugResources UP-TO-DATE
+> Task :react-native-maps:packageDebugResources UP-TO-DATE
+> Task :react-native-mmkv:preDebugBuild
+> Task :react-native-mmkv:generateDebugResValues UP-TO-DATE
+> Task :react-native-mmkv:generateDebugResources UP-TO-DATE
+> Task :react-native-mmkv:packageDebugResources UP-TO-DATE
+> Task :react-native-nitro-modules:preDebugBuild UP-TO-DATE
+> Task :react-native-nitro-modules:generateDebugResValues UP-TO-DATE
+> Task :react-native-nitro-modules:generateDebugResources UP-TO-DATE
+> Task :react-native-nitro-modules:packageDebugResources UP-TO-DATE
+> Task :react-native-reanimated:preDebugBuild
+> Task :react-native-reanimated:generateDebugResValues UP-TO-DATE
+> Task :react-native-reanimated:generateDebugResources UP-TO-DATE
+> Task :react-native-reanimated:packageDebugResources UP-TO-DATE
+> Task :react-native-safe-area-context:preDebugBuild UP-TO-DATE
+> Task :react-native-safe-area-context:generateDebugResValues UP-TO-DATE
+> Task :react-native-safe-area-context:generateDebugResources UP-TO-DATE
+> Task :react-native-safe-area-context:packageDebugResources UP-TO-DATE
+> Task :react-native-screens:preDebugBuild UP-TO-DATE
+> Task :react-native-screens:generateDebugResValues UP-TO-DATE
+> Task :react-native-screens:generateDebugResources UP-TO-DATE
+> Task :react-native-screens:packageDebugResources UP-TO-DATE
+> Task :react-native-svg:preDebugBuild UP-TO-DATE
+> Task :react-native-svg:generateDebugResValues UP-TO-DATE
+> Task :react-native-svg:generateDebugResources UP-TO-DATE
+> Task :react-native-svg:packageDebugResources UP-TO-DATE
+> Task :react-native-vector-icons:preDebugBuild UP-TO-DATE
+> Task :react-native-vector-icons:generateDebugResValues UP-TO-DATE
+> Task :react-native-vector-icons:generateDebugResources UP-TO-DATE
+> Task :react-native-vector-icons:packageDebugResources UP-TO-DATE
+> Task :react-native-vision-camera:preDebugBuild UP-TO-DATE
+> Task :react-native-vision-camera:generateDebugResValues UP-TO-DATE
+> Task :react-native-vision-camera:generateDebugResources UP-TO-DATE
+> Task :react-native-vision-camera:packageDebugResources UP-TO-DATE
+> Task :react-native-worklets:preDebugBuild
+> Task :react-native-worklets:generateDebugResValues UP-TO-DATE
+> Task :react-native-worklets:generateDebugResources UP-TO-DATE
+> Task :react-native-worklets:packageDebugResources UP-TO-DATE
+> Task :app:mergeDebugResources UP-TO-DATE
+> Task :app:packageDebugResources UP-TO-DATE
+> Task :app:parseDebugLocalResources UP-TO-DATE
+> Task :mappls-map-react-native:parseDebugLocalResources UP-TO-DATE
+> Task :mappls-map-react-native:generateDebugRFile UP-TO-DATE
+> Task :react-native-android-location-enabler:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-android-location-enabler:generateDebugRFile UP-TO-DATE
+> Task :react-native-background-actions:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-background-actions:generateDebugRFile UP-TO-DATE
+> Task :react-native-community_datetimepicker:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-community_datetimepicker:generateDebugRFile UP-TO-DATE
+> Task :react-native-community_geolocation:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-community_geolocation:generateDebugRFile UP-TO-DATE
+> Task :react-native-community_netinfo:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-community_netinfo:generateDebugRFile UP-TO-DATE
+> Task :react-native-geolocation-service:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-geolocation-service:generateDebugRFile UP-TO-DATE
+> Task :react-native-gesture-handler:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-gesture-handler:generateDebugRFile UP-TO-DATE
+> Task :react-native-image-crop-picker:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-image-crop-picker:generateDebugRFile UP-TO-DATE
+> Task :react-native-maps:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-maps:generateDebugRFile UP-TO-DATE
+> Task :react-native-mmkv:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-mmkv:generateDebugRFile UP-TO-DATE
+> Task :react-native-nitro-modules:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-nitro-modules:generateDebugRFile UP-TO-DATE
+> Task :react-native-reanimated:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-reanimated:generateDebugRFile UP-TO-DATE
+> Task :react-native-safe-area-context:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-safe-area-context:generateDebugRFile UP-TO-DATE
+> Task :react-native-screens:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-screens:generateDebugRFile UP-TO-DATE
+> Task :react-native-svg:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-svg:generateDebugRFile UP-TO-DATE
+> Task :react-native-vector-icons:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-vector-icons:generateDebugRFile UP-TO-DATE
+> Task :react-native-vision-camera:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-vision-camera:generateDebugRFile UP-TO-DATE
+> Task :react-native-worklets:parseDebugLocalResources UP-TO-DATE
+> Task :react-native-worklets:generateDebugRFile UP-TO-DATE
+> Task :app:dataBindingGenBaseClassesDebug UP-TO-DATE
+> Task :app:dataBindingTriggerDebug UP-TO-DATE
+> Task :app:generateDebugBuildConfig UP-TO-DATE
+> Task :mappls-map-react-native:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-android-location-enabler:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-background-actions:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-community_datetimepicker:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-community_geolocation:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-community_netinfo:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-geolocation-service:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-gesture-handler:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-image-crop-picker:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-maps:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-mmkv:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-nitro-modules:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-reanimated:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-safe-area-context:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-screens:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-svg:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-vector-icons:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-vision-camera:writeDebugAarMetadata UP-TO-DATE
+> Task :react-native-worklets:writeDebugAarMetadata UP-TO-DATE
+> Task :app:checkDebugAarMetadata UP-TO-DATE
+> Task :app:mapDebugSourceSetPaths UP-TO-DATE
+> Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+> Task :app:extractDeepLinksDebug UP-TO-DATE
+> Task :mappls-map-react-native:extractDeepLinksDebug UP-TO-DATE
+> Task :mappls-map-react-native:processDebugManifest UP-TO-DATE
+> Task :react-native-android-location-enabler:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-android-location-enabler:processDebugManifest UP-TO-DATE
+> Task :react-native-background-actions:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-background-actions:processDebugManifest UP-TO-DATE
+> Task :react-native-community_datetimepicker:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-community_datetimepicker:processDebugManifest UP-TO-DATE
+> Task :react-native-community_geolocation:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-community_geolocation:processDebugManifest UP-TO-DATE
+> Task :react-native-community_netinfo:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-community_netinfo:processDebugManifest UP-TO-DATE
+> Task :react-native-geolocation-service:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-geolocation-service:processDebugManifest UP-TO-DATE
+> Task :react-native-gesture-handler:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-gesture-handler:processDebugManifest UP-TO-DATE
+> Task :react-native-image-crop-picker:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-image-crop-picker:processDebugManifest UP-TO-DATE
+> Task :react-native-maps:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-maps:processDebugManifest UP-TO-DATE
+> Task :react-native-mmkv:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-mmkv:processDebugManifest UP-TO-DATE
+> Task :react-native-nitro-modules:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-nitro-modules:processDebugManifest UP-TO-DATE
+> Task :react-native-reanimated:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-reanimated:processDebugManifest UP-TO-DATE
+> Task :react-native-safe-area-context:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-safe-area-context:processDebugManifest UP-TO-DATE
+> Task :react-native-screens:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-screens:processDebugManifest UP-TO-DATE
+> Task :react-native-svg:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-svg:processDebugManifest UP-TO-DATE
+> Task :react-native-vector-icons:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-vector-icons:processDebugManifest UP-TO-DATE
+> Task :react-native-vision-camera:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-vision-camera:processDebugManifest UP-TO-DATE
+> Task :react-native-worklets:extractDeepLinksDebug UP-TO-DATE
+> Task :react-native-worklets:processDebugManifest UP-TO-DATE
+> Task :app:processDebugMainManifest UP-TO-DATE
+> Task :app:processDebugManifest UP-TO-DATE
+> Task :app:processDebugManifestForPackage UP-TO-DATE
+> Task :mappls-map-react-native:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-android-location-enabler:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-background-actions:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-community_datetimepicker:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-community_geolocation:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-community_netinfo:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-geolocation-service:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-gesture-handler:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-image-crop-picker:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-maps:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-mmkv:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-nitro-modules:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-reanimated:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-safe-area-context:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-screens:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-svg:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-vector-icons:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-vision-camera:compileDebugLibraryResources UP-TO-DATE
+> Task :react-native-worklets:compileDebugLibraryResources UP-TO-DATE
+> Task :app:processDebugResources UP-TO-DATE
+> Task :mappls-map-react-native:generateDebugBuildConfig UP-TO-DATE
+> Task :mappls-map-react-native:javaPreCompileDebug UP-TO-DATE
+> Task :mappls-map-react-native:compileDebugJavaWithJavac UP-TO-DATE
+> Task :mappls-map-react-native:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-android-location-enabler:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :react-native-android-location-enabler:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-android-location-enabler:compileDebugKotlin UP-TO-DATE
+> Task :react-native-android-location-enabler:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-android-location-enabler:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-android-location-enabler:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-background-actions:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-background-actions:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-background-actions:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-background-actions:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-community_datetimepicker:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :react-native-community_datetimepicker:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-community_datetimepicker:compileDebugKotlin UP-TO-DATE
+> Task :react-native-community_datetimepicker:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-community_datetimepicker:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-community_datetimepicker:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-community_geolocation:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-community_geolocation:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-community_geolocation:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-community_geolocation:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-community_netinfo:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-community_netinfo:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-community_netinfo:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-community_netinfo:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-geolocation-service:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-geolocation-service:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-geolocation-service:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-geolocation-service:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-gesture-handler:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :react-native-gesture-handler:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-reanimated:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-reanimated:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-worklets:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-worklets:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-worklets:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-worklets:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-reanimated:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-reanimated:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-svg:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-svg:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-svg:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-svg:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-gesture-handler:compileDebugKotlin UP-TO-DATE
+> Task :react-native-gesture-handler:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-gesture-handler:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-gesture-handler:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-image-crop-picker:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-image-crop-picker:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-image-crop-picker:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-image-crop-picker:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-maps:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :react-native-maps:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-maps:compileDebugKotlin NO-SOURCE
+> Task :react-native-maps:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-maps:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-maps:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-mmkv:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :react-native-mmkv:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-nitro-modules:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :react-native-nitro-modules:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-nitro-modules:compileDebugKotlin UP-TO-DATE
+> Task :react-native-nitro-modules:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-nitro-modules:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-nitro-modules:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-mmkv:compileDebugKotlin UP-TO-DATE
+> Task :react-native-mmkv:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-mmkv:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-mmkv:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-safe-area-context:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :react-native-safe-area-context:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-safe-area-context:compileDebugKotlin UP-TO-DATE
+> Task :react-native-safe-area-context:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-safe-area-context:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-safe-area-context:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-screens:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :react-native-screens:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-screens:compileDebugKotlin UP-TO-DATE
+> Task :react-native-screens:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-screens:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-screens:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-vector-icons:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-vector-icons:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-vector-icons:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-vector-icons:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :react-native-vision-camera:checkKotlinGradlePluginConfigurationErrors SKIPPED
+> Task :react-native-vision-camera:generateDebugBuildConfig UP-TO-DATE
+> Task :react-native-vision-camera:compileDebugKotlin UP-TO-DATE
+> Task :react-native-vision-camera:javaPreCompileDebug UP-TO-DATE
+> Task :react-native-vision-camera:compileDebugJavaWithJavac UP-TO-DATE
+> Task :react-native-vision-camera:bundleLibCompileToJarDebug UP-TO-DATE
+> Task :app:javaPreCompileDebug UP-TO-DATE
+> Task :app:mergeDebugShaders UP-TO-DATE
+> Task :app:compileDebugShaders NO-SOURCE
+> Task :app:copyReactNativeVectorIconFonts UP-TO-DATE
+> Task :app:generateDebugAssets UP-TO-DATE
+> Task :mappls-map-react-native:mergeDebugShaders UP-TO-DATE
+> Task :mappls-map-react-native:compileDebugShaders NO-SOURCE
+> Task :mappls-map-react-native:generateDebugAssets UP-TO-DATE
+> Task :mappls-map-react-native:mergeDebugAssets UP-TO-DATE
+> Task :react-native-android-location-enabler:mergeDebugShaders UP-TO-DATE
+> Task :react-native-android-location-enabler:compileDebugShaders NO-SOURCE
+> Task :react-native-android-location-enabler:generateDebugAssets UP-TO-DATE
+> Task :react-native-android-location-enabler:mergeDebugAssets UP-TO-DATE
+> Task :react-native-background-actions:mergeDebugShaders UP-TO-DATE
+> Task :react-native-background-actions:compileDebugShaders NO-SOURCE
+> Task :react-native-background-actions:generateDebugAssets UP-TO-DATE
+> Task :react-native-background-actions:mergeDebugAssets UP-TO-DATE
+> Task :react-native-community_datetimepicker:mergeDebugShaders UP-TO-DATE
+> Task :react-native-community_datetimepicker:compileDebugShaders NO-SOURCE
+> Task :react-native-community_datetimepicker:generateDebugAssets UP-TO-DATE
+> Task :react-native-community_datetimepicker:mergeDebugAssets UP-TO-DATE
+> Task :react-native-community_geolocation:mergeDebugShaders UP-TO-DATE
+> Task :react-native-community_geolocation:compileDebugShaders NO-SOURCE
+> Task :react-native-community_geolocation:generateDebugAssets UP-TO-DATE
+> Task :react-native-community_geolocation:mergeDebugAssets UP-TO-DATE
+> Task :react-native-community_netinfo:mergeDebugShaders UP-TO-DATE
+> Task :react-native-community_netinfo:compileDebugShaders NO-SOURCE
+> Task :react-native-community_netinfo:generateDebugAssets UP-TO-DATE
+> Task :react-native-community_netinfo:mergeDebugAssets UP-TO-DATE
+> Task :react-native-geolocation-service:mergeDebugShaders UP-TO-DATE
+> Task :react-native-geolocation-service:compileDebugShaders NO-SOURCE
+> Task :react-native-geolocation-service:generateDebugAssets UP-TO-DATE
+> Task :react-native-geolocation-service:mergeDebugAssets UP-TO-DATE
+> Task :react-native-gesture-handler:mergeDebugShaders UP-TO-DATE
+> Task :react-native-gesture-handler:compileDebugShaders NO-SOURCE
+> Task :react-native-gesture-handler:generateDebugAssets UP-TO-DATE
+> Task :react-native-gesture-handler:mergeDebugAssets UP-TO-DATE
+> Task :react-native-image-crop-picker:mergeDebugShaders UP-TO-DATE
+> Task :react-native-image-crop-picker:compileDebugShaders NO-SOURCE
+> Task :react-native-image-crop-picker:generateDebugAssets UP-TO-DATE
+> Task :react-native-image-crop-picker:mergeDebugAssets UP-TO-DATE
+> Task :react-native-maps:mergeDebugShaders UP-TO-DATE
+> Task :react-native-maps:compileDebugShaders NO-SOURCE
+> Task :react-native-maps:generateDebugAssets UP-TO-DATE
+> Task :react-native-maps:mergeDebugAssets UP-TO-DATE
+> Task :react-native-mmkv:mergeDebugShaders UP-TO-DATE
+> Task :react-native-mmkv:compileDebugShaders NO-SOURCE
+> Task :react-native-mmkv:generateDebugAssets UP-TO-DATE
+> Task :react-native-mmkv:mergeDebugAssets UP-TO-DATE
+> Task :react-native-nitro-modules:mergeDebugShaders UP-TO-DATE
+> Task :react-native-nitro-modules:compileDebugShaders NO-SOURCE
+> Task :react-native-nitro-modules:generateDebugAssets UP-TO-DATE
+> Task :react-native-nitro-modules:mergeDebugAssets UP-TO-DATE
+> Task :react-native-reanimated:mergeDebugShaders UP-TO-DATE
+> Task :react-native-reanimated:compileDebugShaders NO-SOURCE
+> Task :react-native-reanimated:generateDebugAssets UP-TO-DATE
+> Task :react-native-reanimated:mergeDebugAssets UP-TO-DATE
+> Task :react-native-safe-area-context:mergeDebugShaders UP-TO-DATE
+> Task :react-native-safe-area-context:compileDebugShaders NO-SOURCE
+> Task :react-native-safe-area-context:generateDebugAssets UP-TO-DATE
+> Task :react-native-safe-area-context:mergeDebugAssets UP-TO-DATE
+> Task :react-native-screens:mergeDebugShaders UP-TO-DATE
+> Task :react-native-screens:compileDebugShaders NO-SOURCE
+> Task :react-native-screens:generateDebugAssets UP-TO-DATE
+> Task :react-native-screens:mergeDebugAssets UP-TO-DATE
+> Task :react-native-svg:mergeDebugShaders UP-TO-DATE
+> Task :react-native-svg:compileDebugShaders NO-SOURCE
+> Task :react-native-svg:generateDebugAssets UP-TO-DATE
+> Task :react-native-svg:mergeDebugAssets UP-TO-DATE
+> Task :react-native-vector-icons:mergeDebugShaders UP-TO-DATE
+> Task :react-native-vector-icons:compileDebugShaders NO-SOURCE
+> Task :react-native-vector-icons:generateDebugAssets UP-TO-DATE
+> Task :react-native-vector-icons:mergeDebugAssets UP-TO-DATE
+> Task :react-native-vision-camera:mergeDebugShaders UP-TO-DATE
+> Task :react-native-vision-camera:compileDebugShaders NO-SOURCE
+> Task :react-native-vision-camera:generateDebugAssets UP-TO-DATE
+> Task :react-native-vision-camera:mergeDebugAssets UP-TO-DATE
+> Task :react-native-worklets:mergeDebugShaders UP-TO-DATE
+> Task :react-native-worklets:compileDebugShaders NO-SOURCE
+> Task :react-native-worklets:generateDebugAssets UP-TO-DATE
+> Task :react-native-worklets:mergeDebugAssets UP-TO-DATE
+> Task :app:mergeDebugAssets UP-TO-DATE
+> Task :app:compressDebugAssets UP-TO-DATE
+> Task :react-native-community_datetimepicker:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-android-location-enabler:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-gesture-handler:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-maps:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-mmkv:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-nitro-modules:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-safe-area-context:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-screens:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-vision-camera:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-community_geolocation:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-community_netinfo:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :mappls-map-react-native:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-background-actions:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-geolocation-service:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-image-crop-picker:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-reanimated:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-svg:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-vector-icons:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :react-native-worklets:bundleLibRuntimeToJarDebug UP-TO-DATE
+> Task :app:desugarDebugFileDependencies UP-TO-DATE
+> Task :mappls-map-react-native:processDebugJavaRes NO-SOURCE
+> Task :react-native-android-location-enabler:processDebugJavaRes UP-TO-DATE
+> Task :react-native-background-actions:processDebugJavaRes NO-SOURCE
+> Task :react-native-community_datetimepicker:processDebugJavaRes UP-TO-DATE
+> Task :react-native-community_geolocation:processDebugJavaRes NO-SOURCE
+> Task :react-native-community_netinfo:processDebugJavaRes NO-SOURCE
+> Task :react-native-geolocation-service:processDebugJavaRes NO-SOURCE
+> Task :react-native-gesture-handler:processDebugJavaRes UP-TO-DATE
+> Task :react-native-image-crop-picker:processDebugJavaRes NO-SOURCE
+> Task :react-native-maps:processDebugJavaRes NO-SOURCE
+> Task :react-native-mmkv:processDebugJavaRes UP-TO-DATE
+> Task :react-native-nitro-modules:processDebugJavaRes UP-TO-DATE
+> Task :react-native-reanimated:processDebugJavaRes NO-SOURCE
+> Task :react-native-safe-area-context:processDebugJavaRes UP-TO-DATE
+> Task :react-native-screens:processDebugJavaRes UP-TO-DATE
+> Task :react-native-svg:processDebugJavaRes NO-SOURCE
+> Task :react-native-vector-icons:processDebugJavaRes NO-SOURCE
+> Task :react-native-vision-camera:processDebugJavaRes UP-TO-DATE
+> Task :react-native-worklets:processDebugJavaRes NO-SOURCE
+> Task :app:checkDebugDuplicateClasses UP-TO-DATE
+> Task :app:mergeExtDexDebug UP-TO-DATE
+> Task :react-native-community_datetimepicker:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :react-native-android-location-enabler:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :react-native-gesture-handler:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :react-native-maps:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :react-native-mmkv:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :react-native-nitro-modules:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :react-native-safe-area-context:bundleLibRuntimeToDirDebug UP-TO-DATE
+> Task :react-native-community_geolocation:bundleLibRuntimeToDirDebug
+
+> Task :app:compileDebugKotlin FAILED
+e: file:///D:/Daakit-Rider/android/app/src/main/java/com/daakit_rider/MainApplication.kt:9:23 Unresolved reference 'direction'.
+e: file:///D:/Daakit-Rider/android/app/src/main/java/com/daakit_rider/MainApplication.kt:21:15 Unresolved reference 'MapplsDirectionWidgetPackage'.
+
+> Task :react-native-community_netinfo:bundleLibRuntimeToDirDebug
+> Task :react-native-vision-camera:bundleLibRuntimeToDirDebug
+> Task :react-native-screens:bundleLibRuntimeToDirDebug
+
+
+[Incubating] Problems report is available at: file:///D:/Daakit-Rider/android/build/reports/problems/problems-report.html
+FAILURE: Build failed with an exception.
+
+* What went wrong:
+Execution failed for task ':app:compileDebugKotlin'.
+> A failure occurred while executing org.jetbrains.kotlin.compilerRunner.GradleCompilerRunnerWithWorkers$GradleKotlinCompilerWorkAction
+   > Compilation error. See log for more details
+
+* Try:
+> Run with --stacktrace option to get the stack trace.
+> Run with --info or --debug option to get more log output.
+> Run with --scan to generate a Build Scan (Powered by Develocity).
+> Get more help at https://help.gradle.org.
+
+Deprecated Gradle features were used in this build, making it incompatible with Gradle 10.
+
+You can use '--warning-mode all' to show the individual deprecation warnings and determine if they come from your own scripts or plugins.
+
+For more on this, please refer to https://docs.gradle.org/9.0.0/userguide/command_line_interface.html#sec:command_line_warnings in the Gradle documentation.
+
+BUILD FAILED in 9s
+410 actionable tasks: 11 executed, 399 up-to-date
